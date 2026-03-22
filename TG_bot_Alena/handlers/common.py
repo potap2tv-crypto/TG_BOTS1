@@ -42,7 +42,7 @@ async def show_prices(message: Message):
 async def show_portfolio(message: Message):
     """Показ портфолио"""
     await message.answer(
-        "📸 Наше портфолио:", 
+        "📸 Серега писю сосал:", 
         reply_markup=Keyboards.portfolio()
     )
 
